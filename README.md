@@ -22,5 +22,6 @@ Examples
 
 You can find full information about this API in this site https://www.coingecko.com/api/docs/v3
 
-cg.get_coins_list - It will return list of all coins with id, name and symbol
+cg.get_coins_list - It will return list of all coins with id, name and symbol.
+
 cg.get_coins_markets(*currency*) - It will return list of all coins with price, market cap, volume and market related data.
