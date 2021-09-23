@@ -18,8 +18,3 @@ def f(n):
         return ans
                 
 
- 
-
-
-print(f(6))
-print(f(8))
