@@ -1,4 +1,4 @@
-from testcode.py 
+from testcode import f
 
 print(f(6))
 print(f(8))
